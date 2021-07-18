@@ -1,0 +1,15 @@
+
+:root {
+    /* medida para metodo mobile first */
+    --mobile-size:375px;
+    /* colores */
+    --rojo-brillante:rgb(242, 95, 58);
+    --azul-oscuro:rgb(35, 44, 81);
+    --azul-grisaceo-oscuro:rgb(143, 148, 167);
+    --azul-muy-oscuro:rgb(29, 30, 37);
+    --rojo-muy-palido:rgb(255, 239, 234);
+    --variante-gris-claro:rgb(249, 249, 249);
+    --rojo-hoover-botones:rgb(253,156,132);
+}
+
+
